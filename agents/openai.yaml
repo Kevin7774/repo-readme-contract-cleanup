@@ -1,0 +1,3 @@
+interface:
+  display_name: "Repo README Contract Cleanup"
+  short_description: "Audit repo contracts before updating README, API docs, env examples, and deployment docs."
